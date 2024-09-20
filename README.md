@@ -34,6 +34,21 @@ Descrição: Essa função preenche automaticamente os campos do formulário com
 
 ## Fontes consultadas
 
+- [ViaCep](https://viacep.com.br/) e [ViaCep Json](https://viacep.com.br/ws/86031150/json/):
+ 
+Descrição: O site ViaCEP é uma API gratuita que permite consultar informações de endereço a partir de um CEP. No projeto, essa API foi usada para preencher automaticamente os campos de "Rua", "Bairro", "Cidade" e "Estado" com base no CEP fornecido. A URL específica usada (https://viacep.com.br/ws/86031150/json/) mostra o formato da resposta da API, retornando os dados do CEP em formato JSON.
+ 
+ 
+ 
+- [Bootstrap](https://getbootstrap.com/):
+ 
+Descrição: O Bootstrap foi utilizado para facilitar a estilização do formulário HTML. Ele forneceu componentes CSS prontos e responsivos, o que torna o design mais adaptável a diferentes dispositivos. Em nosso projeto, o Bootstrap foi usado para criar e estilizar o layout do formulário de cadastro de endereço sem a necessidade de estilização manual.
+
 
 
 ## Autores
+
+- [Murilo Tonassi](https://github.com/murilo-tonassi)
+- [Nicolas Tonassi](https://github.com/nicolas-tonassi)
+- [Pamela Souza](https://github.com/PamelaSouzaSilva)
+- [Naillim Novaski](https://github.com/naillimnovaski)
