@@ -42,7 +42,7 @@ Descrição: O site ViaCEP é uma API gratuita que permite consultar informaçõ
  
 - [Bootstrap](https://getbootstrap.com/):
  
-Descrição: O Bootstrap foi utilizado para facilitar a estilização do formulário HTML. Ele forneceu componentes CSS prontos e responsivos, o que torna o design mais adaptável a diferentes dispositivos. Em nosso projeto, o Bootstrap foi usado para criar e estilizar o layout do formulário de cadastro de endereço sem a necessidade de estilização manual.
+Descrição: O Bootstrap foi utilizado para facilitar a estilização do formulário HTML. Ele forneceu componentes CSS prontos e responsivos o que torna o design mais adaptável a diferentes dispositivos. Em nosso projeto, o Bootstrap foi usado para criar e estilizar o layout do formulário de cadastro de endereço sem a necessidade de estilização manual.
 
 
 
