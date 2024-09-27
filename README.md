@@ -5,7 +5,10 @@ Este projeto é um sistema de cadastro de endereços desenvolvido com HTML, CSS,
 
 Segue o GIF representativo do nosso projeto pronto:
 
-<img src= "gif_cep.mp4">
+<video width="600" controls>
+<source
+src="gif_cep.mp4" type="video/mp4">
+</video>
 
 ## Funcionalidades
 
