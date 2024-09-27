@@ -62,6 +62,18 @@ Explicação sobre a URL e Fetch: A URL é construída dinamicamente com o CEP f
 Descrição: Esse trecho de código adiciona um evento que aciona a função pesquisarCep() sempre que o campo CEP perde o foco (quando o usuário sai do campo após inserir o CEP). Isso permite que a consulta à API ViaCEP seja feita automaticamente, sem a necessidade de um botão adicional para enviar a requisição.
 
 
+## Tecnologias Utilizadas
+ 
+ - Visual Studio Code
+ - Github
+ - Git
+ - HTML5
+ - CSS3
+ - Javascript
+ - [Bootstrap](https://getbootstrap.com/)
+ - [ViaCep](https://viacep.com.br/)
+
+
 
 ## Fontes consultadas
 
