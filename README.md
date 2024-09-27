@@ -6,6 +6,8 @@ Este projeto é um sistema de cadastro de endereços desenvolvido com HTML, CSS,
 Segue o GIF representativo do nosso projeto pronto:
 
 <img src="img/gif_cep.gif">
+<hr>
+<img src="imagem.cep.png">
 
 ## Funcionalidades
 
